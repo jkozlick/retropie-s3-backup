@@ -12,7 +12,7 @@ Parameters:
 
 Globals:
   Function:
-    Timeout: 899
+    Timeout: 30
 
 Resources:
   HelloWorldFunction:
